@@ -38,7 +38,7 @@ pip install ktrain
 Deploy using Flask API and test through postmam.
 
 
-![Positive](example1.png)
+![Positive](https://github.com/rehabreda/NLP/blob/master/Arabic%20Sentiment%20Analysis%20Using%20Bert/example1.PNG)
 
 
-![Negative](example2.png)
+![Negative](https://github.com/rehabreda/NLP/blob/master/Arabic%20Sentiment%20Analysis%20Using%20Bert/example2.PNG)
